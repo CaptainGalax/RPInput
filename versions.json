@@ -1,0 +1,59 @@
+{
+  "Versions": {
+   "1.5": {
+    "zip": "",
+    "sfx": "",
+    "name": "RP-15"
+  },
+   "1.6": {
+    "zip": "",
+    "sfx": "",
+    "name": "RP-16"
+  },
+   "1.7": {
+    "zip": "",
+    "sfx": "",
+    "name": "RP-17"
+  },
+  "1.8": {
+    "zip": "https://www.dropbox.com/s/op1ymzf56xlbqcc/18-RP.zip?dl=1",
+    "sfx": "https://www.dropbox.com/s/thz7cxnc15f32v3/18-RP.exe?dl=1",
+    "name": "RP-18"
+  },
+   "1.9": {
+    "zip": "",
+    "sfx": "",
+    "name": "RP-19"
+  },
+   "1.10": {
+    "zip": "",
+    "sfx": "",
+    "name": "RP-19"
+  },
+   "1.11": {
+    "zip": "",
+    "sfx": "",
+    "name": "RP-19"
+  },
+  "1.12": {
+    "zip": "",
+    "sfx": "",
+    "name": "RP-19"
+  },
+  "1.13": {
+    "zip": "",
+    "sfx": "",
+    "name": "RP-19"
+  },
+  "latest (19w05a)": {
+    "zip": "https://www.dropbox.com/s/7aq27mn8rvq7mqw/RP-19w05a.zip?dl=1",
+    "sfx": "https://www.dropbox.com/s/g211xruiek6qd0l/RP-19w05a.exe?dl=1",
+    "name": "RP-19w05a"
+  },
+    "null": {
+      "zip": "",
+      "sfx": "",
+      "name": ""
+    }
+}
+}
